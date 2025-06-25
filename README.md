@@ -45,6 +45,7 @@ Hello! I'm Mohammad Shahnowaz, a passionate Frontend Web Developer from Banglade
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-newaz-b44113370/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:newaz2796@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/)
 
 ---
 
