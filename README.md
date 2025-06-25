@@ -61,6 +61,70 @@ Hello! I'm Mohammad Shahnowaz, a passionate Frontend Web Developer from Banglade
 
 ### 📌 Pinned Projects
 
+# 🌟 Kids School Website 
+
+## 📚 Overview
+
+**Empowering students from a small age towards a greater vision** —  
+With courage, confidence, creativity, and compassion to make their **unique contribution** in a diverse and dynamic world.
+
+This website presents a responsive and modern school landing page, covering different academic levels (Kinder, Elementary, Middle) with a call-to-action for enrollment.
+
+---
+
+## 🔗 Live link:http://127.0.0.1:5501/index.html
+ 
+📁 GitHub Repo: [Assignment-2-Kids-school](https://github.com/newaz2580/Assignment-2-Kids-school)
+
+---
+
+## 🏫 Sections Overview
+
+### ✅ Hero Section:
+- “Empowering students from small age towards vision”
+- “With the courage, Confidence, Creativity and Compassion to make their Unique Contribution in a Diverse and Dynamic World.”
+- 🔘 **Enroll Now** button
+
+### 📘 Academic Programs
+
+- **🎨 Kinder (3–6 years)**  
+  Reading, writing, math, science, arts, and social studies
+
+- **📗 Elementary School (5–11 years)**  
+  Structured early education
+
+- **📙 Middle School (10–16 years)**  
+  Junior-level education foundation
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3 / Tailwind CSS
+
+
+---
+
+## ✨ Features
+
+- ✅ Educational landing page for school
+- ✅ Responsive layout
+- ✅ Multiple program categories
+- ✅ Call-to-action sections
+
+---
+
+## 🧪 Run Locally
+
+
+git clone https://github.com/newaz2580/Assignment-2-Kids-school.git
+cd Assignment-2-Kids-school
+# If HTML/CSS only
+open index.html
+
+
+
 Manually pin your top 3 repositories on your GitHub profile page.
 
 Recommended:
@@ -77,4 +141,4 @@ Each should include:
 
 ---
 
-_Thanks for visiting my profile! Feel free to connect and collaborate 🤝_
+_Thanks for visiting my profile! Feel free to connect and collaborate 🤝
