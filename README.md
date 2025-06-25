@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/zTpw6Hjb/Whats-App-Image-2025-06-25-at-12-22-52-PM.jpg" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/zTpw6Hjb/Whats-App-Image-2025-06-25-at-12-22-52-PM.jpg" alt="Banner" width="100%" height="50%" />
 </p>
 
 <h1 align="center">Mohammad Shahnowaz</h1>
