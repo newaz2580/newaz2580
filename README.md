@@ -114,6 +114,7 @@ This website presents a responsive and modern school landing page, covering diff
 
 ---
 
+
 ## 🧪 Run Locally
 
 
@@ -124,7 +125,20 @@ open index.html
 
 
 
-Manually pin your top 3 repositories on your GitHub profile page.
+# Project 2
+Live Link: [Service Sharing](https://service-sharing-app.web.app)
+Repo Link: [Server](https://github.com/newaz2580/service-sharing-app-server) [Client](https://github.com/newaz2580/service-sharing-client)
+
+
+
+
+
+# Project 3
+Live Link: [Hobby Group](https://hobby-group-app.web.app/)
+Repo Link: [Server](https://github.com/newaz2580/server-134) [Client](https://github.com/newaz2580/clinet-side-123)
+
+
+
 
 Recommended:
 - `react-blog-app`
