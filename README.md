@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Mohammad Shahnowaz</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Frontend Web Developer</h3>
 
 ---
 
