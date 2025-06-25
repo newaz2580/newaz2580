@@ -3,11 +3,6 @@
   <img src="https://i.ibb.co/zTpw6Hjb/Whats-App-Image-2025-06-25-at-12-22-52-PM.jpg" alt="Banner" width="100%" />
 </p>
 
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://i.ibb.co/wtP2h5p/newaz.jpg" alt="Profile Picture" width="130" style="border-radius: 50%" />
-</p>
-
 <h1 align="center">Mohammad Shahnowaz</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
