@@ -72,7 +72,6 @@ This website presents a responsive and modern school landing page, covering diff
 
 ---
 
-## 🔗 Live link:http://127.0.0.1:5501/index.html
  
 📁 GitHub Repo: [Assignment-2-Kids-school](https://github.com/newaz2580/Assignment-2-Kids-school)
 
