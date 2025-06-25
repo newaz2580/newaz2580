@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Mohammad Shahnowaz</h1>
-<h3 align="center">Frontend Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 ---
 
@@ -77,54 +77,6 @@ This website presents a responsive and modern school landing page, covering diff
 
 ---
 
-## 🏫 Sections Overview
-
-### ✅ Hero Section:
-- “Empowering students from small age towards vision”
-- “With the courage, Confidence, Creativity and Compassion to make their Unique Contribution in a Diverse and Dynamic World.”
-- 🔘 **Enroll Now** button
-
-### 📘 Academic Programs
-
-- **🎨 Kinder (3–6 years)**  
-  Reading, writing, math, science, arts, and social studies
-
-- **📗 Elementary School (5–11 years)**  
-  Structured early education
-
-- **📙 Middle School (10–16 years)**  
-  Junior-level education foundation
-
----
-
-## 🛠️ Tech Stack
-
-- HTML5
-- CSS3 / Tailwind CSS
-
-
----
-
-## ✨ Features
-
-- ✅ Educational landing page for school
-- ✅ Responsive layout
-- ✅ Multiple program categories
-- ✅ Call-to-action sections
-
----
-
-
-## 🧪 Run Locally
-
-
-git clone https://github.com/newaz2580/Assignment-2-Kids-school.git
-cd Assignment-2-Kids-school
-# If HTML/CSS only
-open index.html
-
-
-
 # Project 2
 Live Link: [Service Sharing](https://service-sharing-app.web.app)
 Repo Link: [Server](https://github.com/newaz2580/service-sharing-app-server) [Client](https://github.com/newaz2580/service-sharing-client)
@@ -140,18 +92,4 @@ Repo Link: [Server](https://github.com/newaz2580/server-134) [Client](https://gi
 
 
 
-Recommended:
-- `react-blog-app`
-- `task-manager-api`
-- `portfolio`
-
-Each should include:
-- Project overview
-- Tech stack
-- Live link (if available)
-- Screenshot
-- How to run guide
-
----
-
-_Thanks for visiting my profile! Feel free to connect and collaborate 🤝
+Thanks for visiting my profile! Feel free to connect and collaborate 🤝
