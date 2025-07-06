@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-Hello! I'm Mohammad Shahnowaz, a passionate Frontend Web Developer from Bangladesh.
+Hello! I'm Mohammad Shahnowaz, a passionate FullStack Web Developer from Bangladesh.
 
 🌱 I’m currently exploring **Next.js**  
 🛠️ I’m working on a **profast website project**  
