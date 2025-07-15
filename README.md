@@ -71,16 +71,17 @@ Hello! I'm Mohammad Shahnowaz, a passionate FullStack Web Developer from Banglad
 
 ### 📌 Pinned Projects
 # Project 3
-📁 GitHub Repo: [Assignment-2-Kids-school](https://github.com/newaz2580/Assignment-2-Kids-school)]
+
 (https://github.com/newaz2580/Assignment-2-Kids-school)
 
 📍 Overview:
 A modern and responsive landing page for a fictional kids’ school that highlights its mission to nurture young learners. The site includes sections for Kindergarten, Elementary, and Middle School levels. Strong use of visual hierarchy, call-to-action buttons for enrollment, and a vibrant child-friendly design.
 
 [Live Preview](https://kids-school-project.netlify.app)
-📁 GitHub Repo
-
+📁 GitHub Repo: [Assignment-2-Kids-school](https://github.com/newaz2580/Assignment-2-Kids-school)]
 🛠️ Tech Stack: HTML, CSS, Responsive Design
+
+
 # Project 2
 🔧 Service Sharing Platform
 Connecting people to offer and find local services
