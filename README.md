@@ -105,7 +105,7 @@ A social platform where users can create or join hobby-based groups like paintin
 ## 🔗Live Link: [Hobby Group](https://hobby-group-app.web.app/)
 # 🔗Repo Link:
 ## 🔗[Server](https://github.com/newaz2580/server-134) 
-##🔗 [Client](https://github.com/newaz2580/clinet-side-123)
+## 🔗 [Client](https://github.com/newaz2580/clinet-side-123)
 
 🛠️ Tech Stack: React, Firebase Auth, Tailwind CSS, Node.js, Express.js, MongoDB, JWT
 
