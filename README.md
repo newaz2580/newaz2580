@@ -70,9 +70,8 @@ Hello! I'm Mohammad Shahnowaz, a passionate FullStack Web Developer from Banglad
 ---
 
 ### 📌 Pinned Projects
-# Project 3
+# Project 1
 
-(https://github.com/newaz2580/Assignment-2-Kids-school)
 
 📍 Overview:
 A modern and responsive landing page for a fictional kids’ school that highlights its mission to nurture young learners. The site includes sections for Kindergarten, Elementary, and Middle School levels. Strong use of visual hierarchy, call-to-action buttons for enrollment, and a vibrant child-friendly design.
