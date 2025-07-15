@@ -71,7 +71,7 @@ Hello! I'm Mohammad Shahnowaz, a passionate FullStack Web Developer from Banglad
 
 ### 📌 Pinned Projects
 
-🌟 Kids School Website
+🌟 #Kids School Website
 Empowering young minds through creativity, courage, and confidence
 
 📍 Overview:
