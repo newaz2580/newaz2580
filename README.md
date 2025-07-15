@@ -70,8 +70,8 @@ Hello! I'm Mohammad Shahnowaz, a passionate FullStack Web Developer from Banglad
 ---
 
 ### 📌 Pinned Projects
-
-📁 GitHub Repo: [Assignment-2-Kids-school]
+# Project 3
+📁 GitHub Repo: [Assignment-2-Kids-school](https://github.com/newaz2580/Assignment-2-Kids-school)]
 (https://github.com/newaz2580/Assignment-2-Kids-school)
 
 📍 Overview:
@@ -81,28 +81,31 @@ A modern and responsive landing page for a fictional kids’ school that highlig
 📁 GitHub Repo
 
 🛠️ Tech Stack: HTML, CSS, Responsive Design
-
+# Project 2
 🔧 Service Sharing Platform
 Connecting people to offer and find local services
 
 📍 Overview:
 A full-stack web app where users can post, book, and manage services such as cleaning, plumbing, tutoring, etc. Features secure login with Firebase, dashboard for managing bookings, role-based access, and payment status updates. Service providers can track their offered services, and users can search and sort through listings.
 
-🔗 Live Site
-📁 Client Repo
-📁 Server Repo
+Live Link: [Service Sharing](https://service-sharing-app.web.app)
+Repo Link:
+[Server](https://github.com/newaz2580/service-sharing-app-server) 
+[Client](https://github.com/newaz2580/service-sharing-client)
 
 🛠️ Tech Stack: React, Firebase Auth, Tailwind CSS, Node.js, Express.js, MongoDB, JWT
-
+# Project 3
 🧩 Hobby Group Organizer (HobbyHub)
 Build or join hobby groups, events, and communities
 
 📍 Overview:
 A social platform where users can create or join hobby-based groups like painting, gardening, photography, etc. Includes authentication, dynamic dashboards for different user roles, event hosting features, and group discussions. Optimized for mobile and desktop users with Firebase Auth, JWT-protected APIs, and image uploads.
 
-🔗 Live Site
-📁 Client Repo
-📁 Server Repo
+
+Live Link: [Hobby Group](https://hobby-group-app.web.app/)
+Repo Link:
+[Server](https://github.com/newaz2580/server-134) 
+[Client](https://github.com/newaz2580/clinet-side-123) add some overview of my project
 
 🛠️ Tech Stack: React, Firebase Auth, Tailwind CSS, Node.js, Express.js, MongoDB, JWT
 
