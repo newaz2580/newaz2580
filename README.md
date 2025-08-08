@@ -86,32 +86,47 @@ Eager to learn, grow, and contribute to impactful projects.
 
 ### 📌 Pinned Projects
 
-#### 🎓 Kids School Landing Page
-**Overview:** A modern and responsive landing page for a fictional kids’ school. Features sections for Kindergarten, Elementary, and Middle School with clear CTAs and vibrant UI.
+🧩 HobbyHub (May 2025)
+🔗 Live • Client Repo • Server Repo
 
-🔗 [Live Preview](https://kids-school-project.netlify.app)  
-📁 [GitHub Repo](https://github.com/newaz2580/Assignment-2-Kids-school)  
-🛠️ Tech Stack: HTML, CSS, Responsive Design
+Overview:
+HobbyHub is a comprehensive hobby management platform developed to enable users to efficiently create, discover, and join hobby groups. It promotes meaningful connections, encourages active participation, and ensures timely updates on group events — all within a secure and intuitive interface.
 
----
+✅ Key Features:
 
-#### 🔧 Service Sharing Platform
-**Overview:** A full-stack app where users can post, book, and manage local services like cleaning, plumbing, etc. Role-based dashboard, secure login, and booking/payment status management.
+Create & Manage Groups: Authenticated users can create, update, and delete hobby groups with category, location, image, and deadlines.
 
-🔗 [Live Site](https://service-sharing-app.web.app)  
-📁 [Server Repo](https://github.com/newaz2580/service-sharing-app-server)  
-📁 [Client Repo](https://github.com/newaz2580/service-sharing-client)  
-🛠️ Tech Stack: React, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB, JWT
+Join & View Communities: Browse groups, view details, and join active ones — restricted by group start date.
 
----
+Authentication: Firebase Auth (Email/Password + Google), route protection, and real-time toast feedback.
 
-#### 🧩 HobbyHub - Hobby Group Organizer
-**Overview:** A platform for users to create or join hobby-based groups and events. Includes authentication, dynamic dashboards for different roles, and event hosting features.
+🔧 Service Share (June 2025)
+🔗 Live • Client Repo • Server Repo
 
-🔗 [Live Site](https://hobby-group-app.web.app/)  
-📁 [Server Repo](https://github.com/newaz2580/server-134)  
-📁 [Client Repo](https://github.com/newaz2580/clinet-side-123)  
-🛠️ Tech Stack: React, Firebase Auth, Tailwind CSS, Node.js, Express.js, MongoDB, JWT
+Overview:
+A web-based service-sharing platform that allows users to post, browse, and book local services. Built with a secure, user-friendly experience in mind using Firebase and JWT.
+
+✅ Key Features:
+
+Authentication: Firebase Auth (Email/Password & Google), protected routes via JWT.
+
+Service Lifecycle Management: Add/edit/delete own services. Bookings managed with status updates (pending, working, completed).
+
+Interactive UI: Real-time search, sorting by price, dark/light theme toggle using React, Tailwind CSS, and DaisyUI.
+
+🎉 Event Discovery (April 2025)
+🔗 Live • GitHub Repo
+
+Overview:
+A modern event discovery platform where users can explore upcoming events, view past memories, and interact via reviews — all with a smooth, secure, and responsive design.
+
+✅ Key Features:
+
+Dynamic Event Display: Featured event slider, full event list, responsive layout.
+
+Authentication System: Email/Password & Google login, profile update, and forgot password support.
+
+User Engagement: Event rating, review, custom dynamic pages (like About), interactive UX with toast feedback and dynamic titles.
 
 ---
 
