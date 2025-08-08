@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/BK5kZ6bN/profile-pic.jpg" alt="Banner" width="100%" height="50%" />
+  <img src="[https://i.ibb.co/BK5kZ6bN/profile-pic.jpg](https://i.ibb.co.com/kVRp3Gxq/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)" alt="Banner" width="100%" height="50%" />
 </p>
 
 <h1 align="center">Mohammad Shahnowaz</h1>
