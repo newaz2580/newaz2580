@@ -92,7 +92,7 @@ Eager to learn, grow, and contribute to impactful projects.
 
 HobbyHub is a dynamic platform where users can create, discover, and join hobby-based groups and communities. It fosters meaningful engagement among like-minded individuals through a secure, responsive interface.
 
-## ✨ Features:
+## 🌟 Core Features:
 
 🔹 Create, update, and delete hobby groups (with category, deadline, location, image)
 
@@ -100,13 +100,21 @@ HobbyHub is a dynamic platform where users can create, discover, and join hobby-
 
 🔹 Fully protected routes, toast notifications, and clean dashboard for group management
 
+## 🧰 Technologies Used:
+
+🔹 React, Tailwind CSS, DaisyUI, React Router
+
+🔹 Node.js, Express.js, MongoDB
+
+🔹 Firebase Authentication, JWT, TanStack Query
+
  ### 🔧 Service Sharing — Find & Offer Local Services
 📅 June 2025
 🌐[ Live Site](https://service-sharing-app.web.app/) | 💻 [Client Repo](https://github.com/newaz2580/service-sharing-app-clients) | 🛠️ [Server Repo](https://github.com/newaz2580/service-sharing-app-server)
 
 A full-stack web application to post, book, and manage local services like plumbing, tutoring, cleaning, etc. Role-based access and real-time updates ensure smooth service coordination.
 
-## ✨ Features:
+## 🌟 Core Features:
 
 🔹 Add, edit, and delete your own services
 
@@ -114,6 +122,14 @@ A full-stack web application to post, book, and manage local services like plumb
 
 🔹 Real-time service search, price sorting, dark/light theme toggle
 
+## 🧰 Technologies Used:
+🔹 React.js, Tailwind CSS, DaisyUI
+
+🔹 Node.js, Express.js, MongoDB
+
+🔹 Firebase Auth + JWT
+
+🔹 TanStack Query, Axios
 
  ### 🎉 Event Discovery — Explore, Review & Remember Events
 📅 April 2025
@@ -121,7 +137,7 @@ A full-stack web application to post, book, and manage local services like plumb
 
 A modern event discovery platform where users can view upcoming events, revisit past moments, and leave reviews — all within a secure and beautifully responsive UI.
 
-## ✨ Features:
+## 🌟 Core Features:
 
 🔹 Featured event slider & complete event listing
 
@@ -129,7 +145,8 @@ A modern event discovery platform where users can view upcoming events, revisit 
 
 🔹 Event reviews, ratings, dynamic routes, and toast-based user feedback
 
-
+## 🧰 Technologies Used:
+🔹 React, Tailwind CSS, React Router
 ---
 
 ### 🌐 Languages
