@@ -86,47 +86,54 @@ Eager to learn, grow, and contribute to impactful projects.
 
 ### 📌 Pinned Projects
 
-🧩 HobbyHub (May 2025)
-🔗 Live • Client Repo • Server Repo
+🧩 HobbyHub — A Social Hobby Group Platform
+📅 May 2025
+🌐 Live Site | 💻 Client Repo | 🛠️ Server Repo
 
-Overview:
-HobbyHub is a comprehensive hobby management platform developed to enable users to efficiently create, discover, and join hobby groups. It promotes meaningful connections, encourages active participation, and ensures timely updates on group events — all within a secure and intuitive interface.
+HobbyHub is a dynamic platform where users can create, discover, and join hobby-based groups and communities. It fosters meaningful engagement among like-minded individuals through a secure, responsive interface.
 
-✅ Key Features:
+✨ Features:
 
-Create & Manage Groups: Authenticated users can create, update, and delete hobby groups with category, location, image, and deadlines.
+🔹 Create, update, and delete hobby groups (with category, deadline, location, image)
 
-Join & View Communities: Browse groups, view details, and join active ones — restricted by group start date.
+🔹 Browse public groups and join active ones (filtered by group deadline)
 
-Authentication: Firebase Auth (Email/Password + Google), route protection, and real-time toast feedback.
+🔹 Secure Firebase authentication (Email/Password & Google)
 
-🔧 Service Share (June 2025)
-🔗 Live • Client Repo • Server Repo
+🔹 Fully protected routes, toast notifications, and clean dashboard for group management
 
-Overview:
-A web-based service-sharing platform that allows users to post, browse, and book local services. Built with a secure, user-friendly experience in mind using Firebase and JWT.
+🔧 Service Sharing — Find & Offer Local Services
+📅 June 2025
+🌐 Live Site | 💻 Client Repo | 🛠️ Server Repo
 
-✅ Key Features:
+A full-stack web application to post, book, and manage local services like plumbing, tutoring, cleaning, etc. Role-based access and real-time updates ensure smooth service coordination.
 
-Authentication: Firebase Auth (Email/Password & Google), protected routes via JWT.
+✨ Features:
 
-Service Lifecycle Management: Add/edit/delete own services. Bookings managed with status updates (pending, working, completed).
+🔹 Add, edit, and delete your own services
 
-Interactive UI: Real-time search, sorting by price, dark/light theme toggle using React, Tailwind CSS, and DaisyUI.
+🔹 Book services and update booking status (Pending, Working, Completed)
 
-🎉 Event Discovery (April 2025)
-🔗 Live • GitHub Repo
+🔹 Firebase authentication with JWT route protection
 
-Overview:
-A modern event discovery platform where users can explore upcoming events, view past memories, and interact via reviews — all with a smooth, secure, and responsive design.
+🔹 Real-time service search, price sorting, dark/light theme toggle
 
-✅ Key Features:
+🎉 Event Discovery — Explore, Review & Remember Events
+📅 April 2025
+🌐 Live Site | 💻 GitHub Repo
 
-Dynamic Event Display: Featured event slider, full event list, responsive layout.
+A modern event discovery platform where users can view upcoming events, revisit past moments, and leave reviews — all within a secure and beautifully responsive UI.
 
-Authentication System: Email/Password & Google login, profile update, and forgot password support.
+✨ Features:
 
-User Engagement: Event rating, review, custom dynamic pages (like About), interactive UX with toast feedback and dynamic titles.
+🔹 Featured event slider & complete event listing
+
+🔹 User authentication with Email/Password & Google
+
+🔹 Profile update, forgot password, and secure access
+
+🔹 Event reviews, ratings, dynamic routes, and toast-based user feedback
+
 
 ---
 
