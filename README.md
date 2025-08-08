@@ -98,13 +98,11 @@ HobbyHub is a dynamic platform where users can create, discover, and join hobby-
 
 🔹 Browse public groups and join active ones (filtered by group deadline)
 
-🔹 Secure Firebase authentication (Email/Password & Google)
-
 🔹 Fully protected routes, toast notifications, and clean dashboard for group management
 
 🔧 Service Sharing — Find & Offer Local Services
 📅 June 2025
-🌐 Live Site | 💻 Client Repo | 🛠️ Server Repo
+🌐[ Live Site](https://service-sharing-app.web.app/) | 💻 [Client Repo](https://github.com/newaz2580/service-sharing-app-clients) | 🛠️ [Server Repo](https://github.com/newaz2580/service-sharing-app-server)
 
 A full-stack web application to post, book, and manage local services like plumbing, tutoring, cleaning, etc. Role-based access and real-time updates ensure smooth service coordination.
 
@@ -114,13 +112,11 @@ A full-stack web application to post, book, and manage local services like plumb
 
 🔹 Book services and update booking status (Pending, Working, Completed)
 
-🔹 Firebase authentication with JWT route protection
-
 🔹 Real-time service search, price sorting, dark/light theme toggle
 
 🎉 Event Discovery — Explore, Review & Remember Events
 📅 April 2025
-🌐 Live Site | 💻 GitHub Repo
+🌐[ Live Site ](https://even-discovery-platform.web.app/)| 💻 [GitHub Repo](https://github.com/newaz2580/EventDiscovery)
 
 A modern event discovery platform where users can view upcoming events, revisit past moments, and leave reviews — all within a secure and beautifully responsive UI.
 
