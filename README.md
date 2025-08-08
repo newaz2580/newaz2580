@@ -86,13 +86,13 @@ Eager to learn, grow, and contribute to impactful projects.
 
 ### 📌 Pinned Projects
 
- ## HobbyHub — A Social Hobby Group Platform
+ ### 🧩  HobbyHub — A Social Hobby Group Platform
 📅 May 2025
 🌐 [Live Site ](https://hobby-group-app.web.app/)| 💻 [Client Repo](https://github.com/newaz2580/hobby-clients) | 🛠️ [Server Repo](https://github.com/newaz2580/hobby-server)
 
 HobbyHub is a dynamic platform where users can create, discover, and join hobby-based groups and communities. It fosters meaningful engagement among like-minded individuals through a secure, responsive interface.
 
-✨ Features:
+## ✨ Features:
 
 🔹 Create, update, and delete hobby groups (with category, deadline, location, image)
 
@@ -100,13 +100,13 @@ HobbyHub is a dynamic platform where users can create, discover, and join hobby-
 
 🔹 Fully protected routes, toast notifications, and clean dashboard for group management
 
-🔧 Service Sharing — Find & Offer Local Services
+ ### 🔧 Service Sharing — Find & Offer Local Services
 📅 June 2025
 🌐[ Live Site](https://service-sharing-app.web.app/) | 💻 [Client Repo](https://github.com/newaz2580/service-sharing-app-clients) | 🛠️ [Server Repo](https://github.com/newaz2580/service-sharing-app-server)
 
 A full-stack web application to post, book, and manage local services like plumbing, tutoring, cleaning, etc. Role-based access and real-time updates ensure smooth service coordination.
 
-✨ Features:
+## ✨ Features:
 
 🔹 Add, edit, and delete your own services
 
@@ -114,19 +114,18 @@ A full-stack web application to post, book, and manage local services like plumb
 
 🔹 Real-time service search, price sorting, dark/light theme toggle
 
-🎉 Event Discovery — Explore, Review & Remember Events
+
+ ### 🎉 Event Discovery — Explore, Review & Remember Events
 📅 April 2025
 🌐[ Live Site ](https://even-discovery-platform.web.app/)| 💻 [GitHub Repo](https://github.com/newaz2580/EventDiscovery)
 
 A modern event discovery platform where users can view upcoming events, revisit past moments, and leave reviews — all within a secure and beautifully responsive UI.
 
-✨ Features:
+## ✨ Features:
 
 🔹 Featured event slider & complete event listing
 
 🔹 User authentication with Email/Password & Google
-
-🔹 Profile update, forgot password, and secure access
 
 🔹 Event reviews, ratings, dynamic routes, and toast-based user feedback
 
