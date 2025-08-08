@@ -109,6 +109,9 @@ A social platform where users can create or join hobby-based groups like paintin
 
 🛠️ Tech Stack: React, Firebase Auth, Tailwind CSS, Node.js, Express.js, MongoDB, JWT
 
+### 🌐 Languages  
+- 🇬🇧 English (Fluent)  
+- 🇧🇩 Bangla (Native)  
 
 
 Thanks for visiting my profile! Feel free to connect and collaborate 🤝
