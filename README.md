@@ -13,7 +13,7 @@
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mohammad-newaz-b44113370/)  
 🔗 [GitHub Profile](https://github.com/newaz2580)
 🔗 [Portfolio](https://github.com/newaz2580](https://cruel-scissors.surge.sh/))
-🔗 Portfolio
+
 
 ---
 
