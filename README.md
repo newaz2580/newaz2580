@@ -88,7 +88,7 @@ Eager to learn, grow, and contribute to impactful projects.
 
 🧩 HobbyHub — A Social Hobby Group Platform
 📅 May 2025
-🌐 Live Site | 💻 Client Repo | 🛠️ Server Repo
+🌐 [Live Site ](https://hobby-group-app.web.app/)| 💻 [Client Repo](https://github.com/newaz2580/hobby-clients) | 🛠️ [Server Repo](https://github.com/newaz2580/hobby-server)
 
 HobbyHub is a dynamic platform where users can create, discover, and join hobby-based groups and communities. It fosters meaningful engagement among like-minded individuals through a secure, responsive interface.
 
