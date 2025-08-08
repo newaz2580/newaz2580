@@ -148,6 +148,27 @@ A modern event discovery platform where users can view upcoming events, revisit 
 ## 🧰 Technologies Used:
 🔹 React, Tailwind CSS, React Router
 ---
+### 📝 How to Run Locally
+# Clone the repo
+git clone https://github.com/newaz2580/EventDiscovery
+
+npm install
+
+# Configure environment variables
+
+npm run dev
+# Step 1: Clone both client and server repos
+git clone <repo-url>
+
+# Step 2: Install dependencies
+npm install
+
+# Step 3: Create .env file and add environment variables
+
+# Step 4: Start the project
+npm run dev   # or npm start
+
+# Access: http://localhost:5173
 
 ### 🌐 Languages
 
