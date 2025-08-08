@@ -86,7 +86,7 @@ Eager to learn, grow, and contribute to impactful projects.
 
 ### 📌 Pinned Projects
 
-🧩 ## HobbyHub — A Social Hobby Group Platform
+ ## HobbyHub — A Social Hobby Group Platform
 📅 May 2025
 🌐 [Live Site ](https://hobby-group-app.web.app/)| 💻 [Client Repo](https://github.com/newaz2580/hobby-clients) | 🛠️ [Server Repo](https://github.com/newaz2580/hobby-server)
 
